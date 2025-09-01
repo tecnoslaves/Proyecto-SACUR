@@ -10,10 +10,10 @@
    - Captura de productos, precios, cantidades y totales por venta.
 
 ✅ **Base de datos local**  
-   - Almacena todas las ventas en una base de datos (SQLite o archivo JSON/CSV, según implementación).
+   - Almacena todas las ventas en una base de datos SQLite.
 
 ✅ **Cierre de caja**  
-   - Muestra el resumen de ventas del día: total de ingresos, número de transacciones, promedios, etc.
+   - Muestra el resumen de ventas del día: total de ingresos, número de transacciones, promedios, porcentajes de productos + vendidos, etc.
 
 ✅ **Impresión de tickets**  
    - Genera y guarda tickets en formato texto para cada venta confirmada.

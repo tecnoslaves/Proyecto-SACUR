@@ -27,6 +27,7 @@
 
 ---
 🛠️ Tecnologías utilizadas
+
 Lenguaje: Python 3
 
 Base de datos: SQLite
@@ -36,15 +37,21 @@ Interfaz: Consola
 Generación de tickets: archivos de texto
 
 📂 Próximos pasos
-Añadir autenticación de usuario, 
-Cifrado de Bases de datos, 
+
+Añadir autenticación de usuario
+
+Cifrado de Bases de datos
+
 Backup automático de datos
 
 📄 Licencia
+
 Este proyecto está bajo la licencia MIT.
 
 Consulta el archivo LICENSE para más detalles.
 
 🙌 Autor
+
 @tecnoslaves
+
 Proyecto-SACUR – Control de ventas diarias

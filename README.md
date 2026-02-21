@@ -6,15 +6,12 @@
 
 ### Punto de Venta Integrado
 
-![Login](<img width="534" height="581" alt="login" src="https://github.com/user-attachments/assets/495df975-5bc0-4375-a5c1-9c7a320de180" />
-)
+![Login](<img width="534" height="581" alt="login" src="https://github.com/user-attachments/assets/495df975-5bc0-4375-a5c1-9c7a320de180" />)
 
-![Panel de Ventas](<img width="1277" height="643" alt="confirmacion_venta" src="https://github.com/user-attachments/assets/a1175d42-0fd9-41f8-9628-0f32607e5c3d" />
-)
+![Panel de Ventas](<img width="1277" height="643" alt="confirmacion_venta" src="https://github.com/user-attachments/assets/a1175d42-0fd9-41f8-9628-0f32607e5c3d" />)
 
 ### Control de Caja y Seguridad
-![Panel de Caja](<img width="1279" height="672" alt="reporte_ventas_2E" src="https://github.com/user-attachments/assets/6ed2f27a-a0fa-4f9d-91d9-2a9bb53302ef" />
-)
+![Panel de Caja](<img width="1279" height="672" alt="reporte_ventas_2E" src="https://github.com/user-attachments/assets/6ed2f27a-a0fa-4f9d-91d9-2a9bb53302ef" />)
 
 ---
 

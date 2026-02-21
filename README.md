@@ -6,12 +6,12 @@
 
 ### Punto de Venta Integrado
 
-![Login](\img\Login.png)
+![Login](C:\Users\stefa\Desktop\Proyecto\Proyecto SACUR\img\login.png)
 
-![Panel de Ventas](img/confirmacion_venta.png)
+![Panel de Ventas](C:\Users\stefa\Desktop\Proyecto\Proyecto SACUR\img/confirmacion_venta.png)
 
 ### Control de Caja y Seguridad
-![Panel de Caja](img/reporte_ventas_2E.png)
+![Panel de Caja](C:\Users\stefa\Desktop\Proyecto\Proyecto SACUR\/img/reporte_ventas_2E.png)
 
 ---
 

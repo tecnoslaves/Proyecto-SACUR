@@ -2,6 +2,17 @@
 
 > Un sistema de registro de ventas diarias desarrollado en Python, diseñado para pequeños comercios o puntos de venta. Permite registrar ventas, gestionar cierres de caja, generar tickets, consultar historial de ventas por fecha y generación de copias de seguridad de la base de datos.
 
+## Vista Previa de la Interfaz
+
+### Punto de Venta Integrado
+
+![Login](\img\Login.png)
+
+![Panel de Ventas](img/confirmacion_venta.png)
+
+### Control de Caja y Seguridad
+![Panel de Caja](img/reporte_ventas_2E.png)
+
 ---
 
 ## 📌 Funcionalidades principales

@@ -1,0 +1,12 @@
+# Ignorar base de datos y llaves de cifrado
+stella_sacur.db
+.db_key
+
+# Ignorar carpetas de Python y backups
+__pycache__/
+backups/
+*.pyc
+
+# Ignorar archivos de sistema de Windows
+Thumbs.db
+desktop.ini

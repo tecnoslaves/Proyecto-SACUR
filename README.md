@@ -4,14 +4,12 @@
 
 ## Vista Previa de la Interfaz
 
-### Punto de Venta Integrado
+| Acceso Seguro (Login) | Punto de Venta Interactivo |
+|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/f2fe1813-b056-4d03-ad0a-7e45d2728b7b" width="400"> | <img src="https://github.com/user-attachments/assets/34367be0-6b0b-47de-9b53-531b60997ce8" width="400"> |
 
-![Login](<img width="534" height="581" alt="login" src="https://github.com/user-attachments/assets/495df975-5bc0-4375-a5c1-9c7a320de180" />)
-
-![Panel de Ventas](<img width="1277" height="643" alt="confirmacion_venta" src="https://github.com/user-attachments/assets/a1175d42-0fd9-41f8-9628-0f32607e5c3d" />)
-
-### Control de Caja y Seguridad
-![Panel de Caja](<img width="1279" height="672" alt="reporte_ventas_2E" src="https://github.com/user-attachments/assets/6ed2f27a-a0fa-4f9d-91d9-2a9bb53302ef" />)
+### Administración y Reportes de Caja
+<img src="https://github.com/user-attachments/assets/ef5fcd4c-b700-4b74-9b12-6b747e751b60" width="815">
 
 ---
 

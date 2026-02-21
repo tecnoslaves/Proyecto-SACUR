@@ -28,11 +28,11 @@
 ---
 🛠️ Tecnologías utilizadas
 
-Lenguaje: Python 3
+* **Lenguaje:** Python 3
 
-Base de datos (seguridad avanzada): SQLite cifrada con SQLCipher y contraseñas protegidas con `pbkdf2_hmac`.
+* **Base de datos (seguridad avanzada):** SQLite cifrada con SQLCipher y contraseñas protegidas con `pbkdf2_hmac`.
 
-Interfaz: Interactiva 
+* **Interfaz:** Interactiva 
 * **GUI Moderna:** Interfaz gráfica completa en modo oscuro usando PyQt6.
 
 * **Impresión Nativa:** Conexión directa con impresoras en Windows 11.
